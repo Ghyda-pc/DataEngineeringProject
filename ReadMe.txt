@@ -10,7 +10,7 @@ investigates the monthly vaccination progress and impact on total COVID-19 cases
 and bulit an LSTM  model to forcast new cases of COVID-19 in Jordan 
 
 
-[Data Source :]( https://github.com/owid/covid-19-data/tree/master/public/data)
+**Data Source :** (https://github.com/owid/covid-19-data/tree/master/public/data)
 
 This Project was bulit on Docker containers using the following open-source tools:
 - Apache Airflow ( two dags )  
