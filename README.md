@@ -39,25 +39,29 @@ docker-compose up -d # to run application
 
 ````
 
-5- Now you can access the Airflow webserver on http://localhost:8080/ <br />
-                      the Pgadmin is on http://localhost:8000/<br />
-    note : all passwords configuration are in the docker-compose yaml file 
+5- Now you can access <br /> 
+* Airflow webserver on http://localhost:8080/ <br />
+* Pgadmin is on http://localhost:8000/<br />
 
-6- All generated plots will be available in the "output" mounted folder  
-   All generated CSVs will be available in the "data" mounted folder 
+#### **note : all passwords configuration are in the docker-compose yaml file**
+
+6- All generated plots and interactive world map will be available in the **"output"** mounted folder  <br />
+   All generated CSVs will be available in the **"data"** mounted folder<br /> 
 
 7- Set the working directory to "elastic-docker" folder: 
-
+<br />
 8- Run Kibana and ElasticSearch: 
     
     ````
     docker-compose up -d # to run application 
 
     ````
-9 - Now you can access Kibana on http://localhost:5601/ 
+9 - Now you can access Kibana on http://localhost:5601/ <br />
     note: you can see the visulations by openning the Dashboard
 
-10- To close the containers and images for both file:  
+10- To close the containers and images for both file: <br /> 
+````
 docker-compose down #to terminate application
-
+````
+<br />
 ########################## THANK YOU  ################################
