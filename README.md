@@ -51,8 +51,9 @@ docker-compose up -d # to run application
 6- All generated plots and interactive world map will be available in the **"output"** mounted folder  <br />
    All generated CSVs will be available in the **"data"** mounted folder<br /> 
 <br />
-7- Set the working directory to "elastic-docker" folder: 
+7- Set the working directory to "elastic-docker" folder <br />
 <br />
+#
 8- Run Kibana and ElasticSearch: 
     
     ````
