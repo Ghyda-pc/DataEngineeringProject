@@ -1,0 +1,238 @@
+[2021-05-31 09:06:54,924] {scheduler_job.py:182} INFO - Started process (PID=6586) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:06:54,927] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:06:54,928] {logging_mixin.py:104} INFO - [2021-05-31 09:06:54,928] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:06:55,838] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:06:55,875] {logging_mixin.py:104} INFO - [2021-05-31 09:06:55,875] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:06:55,914] {logging_mixin.py:104} INFO - [2021-05-31 09:06:55,914] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:06:55,931] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 1.010 seconds
+[2021-05-31 09:07:26,479] {scheduler_job.py:182} INFO - Started process (PID=6616) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:26,481] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:07:26,483] {logging_mixin.py:104} INFO - [2021-05-31 09:07:26,483] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:27,253] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:27,304] {logging_mixin.py:104} INFO - [2021-05-31 09:07:27,304] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:07:27,360] {logging_mixin.py:104} INFO - [2021-05-31 09:07:27,360] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:07:27,399] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.924 seconds
+[2021-05-31 09:07:57,458] {scheduler_job.py:182} INFO - Started process (PID=6644) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:57,460] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:07:57,461] {logging_mixin.py:104} INFO - [2021-05-31 09:07:57,461] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:58,269] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:07:58,320] {logging_mixin.py:104} INFO - [2021-05-31 09:07:58,320] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:07:58,383] {logging_mixin.py:104} INFO - [2021-05-31 09:07:58,383] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:07:58,400] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.947 seconds
+[2021-05-31 09:08:29,214] {scheduler_job.py:182} INFO - Started process (PID=6675) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:08:29,216] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:08:29,217] {logging_mixin.py:104} INFO - [2021-05-31 09:08:29,217] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:08:29,986] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:08:30,042] {logging_mixin.py:104} INFO - [2021-05-31 09:08:30,042] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:08:30,095] {logging_mixin.py:104} INFO - [2021-05-31 09:08:30,095] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:08:30,114] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.913 seconds
+[2021-05-31 09:09:00,180] {scheduler_job.py:182} INFO - Started process (PID=6706) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:00,182] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:09:00,184] {logging_mixin.py:104} INFO - [2021-05-31 09:09:00,183] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:00,821] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:00,846] {logging_mixin.py:104} INFO - [2021-05-31 09:09:00,846] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:09:00,874] {logging_mixin.py:104} INFO - [2021-05-31 09:09:00,874] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:09:00,888] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.714 seconds
+[2021-05-31 09:09:31,707] {scheduler_job.py:182} INFO - Started process (PID=6734) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:31,709] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:09:31,711] {logging_mixin.py:104} INFO - [2021-05-31 09:09:31,711] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:32,246] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:09:32,286] {logging_mixin.py:104} INFO - [2021-05-31 09:09:32,286] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:09:32,322] {logging_mixin.py:104} INFO - [2021-05-31 09:09:32,322] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:09:32,338] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.634 seconds
+[2021-05-31 09:10:02,426] {scheduler_job.py:182} INFO - Started process (PID=6762) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:02,429] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:10:02,430] {logging_mixin.py:104} INFO - [2021-05-31 09:10:02,430] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:03,052] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:03,083] {logging_mixin.py:104} INFO - [2021-05-31 09:10:03,083] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:10:03,113] {logging_mixin.py:104} INFO - [2021-05-31 09:10:03,113] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:10:03,139] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.717 seconds
+[2021-05-31 09:10:33,659] {scheduler_job.py:182} INFO - Started process (PID=6790) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:33,661] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:10:33,663] {logging_mixin.py:104} INFO - [2021-05-31 09:10:33,663] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:34,242] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:10:34,270] {logging_mixin.py:104} INFO - [2021-05-31 09:10:34,270] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:10:34,302] {logging_mixin.py:104} INFO - [2021-05-31 09:10:34,301] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:10:34,316] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.663 seconds
+[2021-05-31 09:11:05,140] {scheduler_job.py:182} INFO - Started process (PID=6821) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:05,141] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:11:05,142] {logging_mixin.py:104} INFO - [2021-05-31 09:11:05,142] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:05,563] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:05,589] {logging_mixin.py:104} INFO - [2021-05-31 09:11:05,588] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:11:05,613] {logging_mixin.py:104} INFO - [2021-05-31 09:11:05,613] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:11:05,626] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.489 seconds
+[2021-05-31 09:11:35,783] {scheduler_job.py:182} INFO - Started process (PID=6852) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:35,785] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:11:35,786] {logging_mixin.py:104} INFO - [2021-05-31 09:11:35,786] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:36,349] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:11:36,376] {logging_mixin.py:104} INFO - [2021-05-31 09:11:36,376] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:11:36,408] {logging_mixin.py:104} INFO - [2021-05-31 09:11:36,408] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:11:36,422] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.647 seconds
+[2021-05-31 09:12:07,009] {scheduler_job.py:182} INFO - Started process (PID=6880) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:07,012] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:12:07,016] {logging_mixin.py:104} INFO - [2021-05-31 09:12:07,016] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:07,403] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:07,424] {logging_mixin.py:104} INFO - [2021-05-31 09:12:07,424] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:12:07,445] {logging_mixin.py:104} INFO - [2021-05-31 09:12:07,445] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:12:07,471] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.465 seconds
+[2021-05-31 09:12:37,822] {scheduler_job.py:182} INFO - Started process (PID=6908) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:37,823] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:12:37,824] {logging_mixin.py:104} INFO - [2021-05-31 09:12:37,824] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:38,192] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:12:38,213] {logging_mixin.py:104} INFO - [2021-05-31 09:12:38,213] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:12:38,234] {logging_mixin.py:104} INFO - [2021-05-31 09:12:38,234] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:12:38,259] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.440 seconds
+[2021-05-31 09:13:08,749] {scheduler_job.py:182} INFO - Started process (PID=6936) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:08,751] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:13:08,752] {logging_mixin.py:104} INFO - [2021-05-31 09:13:08,752] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:09,211] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:09,247] {logging_mixin.py:104} INFO - [2021-05-31 09:13:09,246] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:13:09,291] {logging_mixin.py:104} INFO - [2021-05-31 09:13:09,291] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:13:09,322] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.576 seconds
+[2021-05-31 09:13:39,952] {scheduler_job.py:182} INFO - Started process (PID=6964) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:39,953] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:13:39,954] {logging_mixin.py:104} INFO - [2021-05-31 09:13:39,954] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:40,471] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:13:40,490] {logging_mixin.py:104} INFO - [2021-05-31 09:13:40,490] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:13:40,511] {logging_mixin.py:104} INFO - [2021-05-31 09:13:40,511] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:13:40,525] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.576 seconds
+[2021-05-31 09:14:10,927] {scheduler_job.py:182} INFO - Started process (PID=6992) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:10,929] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:14:10,930] {logging_mixin.py:104} INFO - [2021-05-31 09:14:10,930] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:11,392] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:11,428] {logging_mixin.py:104} INFO - [2021-05-31 09:14:11,427] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:14:11,462] {logging_mixin.py:104} INFO - [2021-05-31 09:14:11,462] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:14:11,477] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.554 seconds
+[2021-05-31 09:14:41,768] {scheduler_job.py:182} INFO - Started process (PID=7020) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:41,769] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:14:41,770] {logging_mixin.py:104} INFO - [2021-05-31 09:14:41,770] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:42,124] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:14:42,145] {logging_mixin.py:104} INFO - [2021-05-31 09:14:42,145] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:14:42,168] {logging_mixin.py:104} INFO - [2021-05-31 09:14:42,168] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:14:42,194] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.430 seconds
+[2021-05-31 09:15:12,587] {scheduler_job.py:182} INFO - Started process (PID=7048) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:12,589] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:15:12,590] {logging_mixin.py:104} INFO - [2021-05-31 09:15:12,590] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:13,067] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:13,093] {logging_mixin.py:104} INFO - [2021-05-31 09:15:13,093] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:15:13,116] {logging_mixin.py:104} INFO - [2021-05-31 09:15:13,116] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:15:13,129] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.545 seconds
+[2021-05-31 09:15:43,487] {scheduler_job.py:182} INFO - Started process (PID=7076) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:43,489] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:15:43,490] {logging_mixin.py:104} INFO - [2021-05-31 09:15:43,490] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:43,938] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:15:43,975] {logging_mixin.py:104} INFO - [2021-05-31 09:15:43,975] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:15:44,010] {logging_mixin.py:104} INFO - [2021-05-31 09:15:44,010] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:15:44,021] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.537 seconds
+[2021-05-31 09:16:14,387] {scheduler_job.py:182} INFO - Started process (PID=7104) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:14,388] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:16:14,389] {logging_mixin.py:104} INFO - [2021-05-31 09:16:14,389] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:14,781] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:14,803] {logging_mixin.py:104} INFO - [2021-05-31 09:16:14,803] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:16:14,823] {logging_mixin.py:104} INFO - [2021-05-31 09:16:14,823] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:16:14,848] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.464 seconds
+[2021-05-31 09:16:45,152] {scheduler_job.py:182} INFO - Started process (PID=7132) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:45,154] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:16:45,156] {logging_mixin.py:104} INFO - [2021-05-31 09:16:45,156] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:45,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:16:45,878] {logging_mixin.py:104} INFO - [2021-05-31 09:16:45,878] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:16:45,924] {logging_mixin.py:104} INFO - [2021-05-31 09:16:45,924] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:16:45,941] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.795 seconds
+[2021-05-31 09:17:16,711] {scheduler_job.py:182} INFO - Started process (PID=7161) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:16,715] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:17:16,717] {logging_mixin.py:104} INFO - [2021-05-31 09:17:16,716] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:17,358] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:17,388] {logging_mixin.py:104} INFO - [2021-05-31 09:17:17,388] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:17:17,420] {logging_mixin.py:104} INFO - [2021-05-31 09:17:17,420] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:17:17,489] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.784 seconds
+[2021-05-31 09:17:48,135] {scheduler_job.py:182} INFO - Started process (PID=7189) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:48,139] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:17:48,142] {logging_mixin.py:104} INFO - [2021-05-31 09:17:48,142] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:48,871] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:17:48,911] {logging_mixin.py:104} INFO - [2021-05-31 09:17:48,911] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:17:48,948] {logging_mixin.py:104} INFO - [2021-05-31 09:17:48,948] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:17:48,963] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.835 seconds
+[2021-05-31 09:18:19,378] {scheduler_job.py:182} INFO - Started process (PID=7217) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:19,380] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:18:19,382] {logging_mixin.py:104} INFO - [2021-05-31 09:18:19,382] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:19,993] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:20,020] {logging_mixin.py:104} INFO - [2021-05-31 09:18:20,020] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:18:20,051] {logging_mixin.py:104} INFO - [2021-05-31 09:18:20,051] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:18:20,112] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.738 seconds
+[2021-05-31 09:18:50,188] {scheduler_job.py:182} INFO - Started process (PID=7245) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:50,191] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:18:50,193] {logging_mixin.py:104} INFO - [2021-05-31 09:18:50,193] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:50,793] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:18:50,827] {logging_mixin.py:104} INFO - [2021-05-31 09:18:50,827] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:18:50,895] {logging_mixin.py:104} INFO - [2021-05-31 09:18:50,894] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:18:50,953] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.773 seconds
+[2021-05-31 09:19:21,841] {scheduler_job.py:182} INFO - Started process (PID=7273) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:21,843] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:19:21,845] {logging_mixin.py:104} INFO - [2021-05-31 09:19:21,844] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:22,636] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:22,663] {logging_mixin.py:104} INFO - [2021-05-31 09:19:22,663] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:19:22,703] {logging_mixin.py:104} INFO - [2021-05-31 09:19:22,702] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:19:22,761] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.926 seconds
+[2021-05-31 09:19:53,467] {scheduler_job.py:182} INFO - Started process (PID=7302) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:53,471] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:19:53,475] {logging_mixin.py:104} INFO - [2021-05-31 09:19:53,475] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:54,228] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:19:54,263] {logging_mixin.py:104} INFO - [2021-05-31 09:19:54,263] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:19:54,309] {logging_mixin.py:104} INFO - [2021-05-31 09:19:54,309] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:19:54,353] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.891 seconds
+[2021-05-31 09:20:25,126] {scheduler_job.py:182} INFO - Started process (PID=7330) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:25,131] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:20:25,133] {logging_mixin.py:104} INFO - [2021-05-31 09:20:25,133] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:25,875] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:25,909] {logging_mixin.py:104} INFO - [2021-05-31 09:20:25,909] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:20:25,943] {logging_mixin.py:104} INFO - [2021-05-31 09:20:25,942] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:20:25,997] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.886 seconds
+[2021-05-31 09:20:56,394] {scheduler_job.py:182} INFO - Started process (PID=7358) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:56,396] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:20:56,397] {logging_mixin.py:104} INFO - [2021-05-31 09:20:56,397] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:56,936] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:20:56,967] {logging_mixin.py:104} INFO - [2021-05-31 09:20:56,966] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:20:56,998] {logging_mixin.py:104} INFO - [2021-05-31 09:20:56,998] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:20:57,051] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.661 seconds
+[2021-05-31 09:21:27,762] {scheduler_job.py:182} INFO - Started process (PID=7386) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:27,764] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:21:27,766] {logging_mixin.py:104} INFO - [2021-05-31 09:21:27,765] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:28,383] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:28,416] {logging_mixin.py:104} INFO - [2021-05-31 09:21:28,416] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:21:28,463] {logging_mixin.py:104} INFO - [2021-05-31 09:21:28,462] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:21:28,531] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.775 seconds
+[2021-05-31 09:21:58,609] {scheduler_job.py:182} INFO - Started process (PID=7414) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:58,612] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:21:58,615] {logging_mixin.py:104} INFO - [2021-05-31 09:21:58,614] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:59,254] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:21:59,308] {logging_mixin.py:104} INFO - [2021-05-31 09:21:59,308] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:21:59,350] {logging_mixin.py:104} INFO - [2021-05-31 09:21:59,349] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:21:59,368] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.765 seconds
+[2021-05-31 09:22:29,508] {scheduler_job.py:182} INFO - Started process (PID=7442) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:22:29,510] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:22:29,512] {logging_mixin.py:104} INFO - [2021-05-31 09:22:29,512] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:22:30,197] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:22:30,237] {logging_mixin.py:104} INFO - [2021-05-31 09:22:30,237] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:22:30,313] {logging_mixin.py:104} INFO - [2021-05-31 09:22:30,312] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:22:30,347] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.845 seconds
+[2021-05-31 09:23:00,886] {scheduler_job.py:182} INFO - Started process (PID=7470) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:00,889] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:23:00,890] {logging_mixin.py:104} INFO - [2021-05-31 09:23:00,890] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:01,522] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:01,550] {logging_mixin.py:104} INFO - [2021-05-31 09:23:01,550] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:23:01,586] {logging_mixin.py:104} INFO - [2021-05-31 09:23:01,586] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:23:01,641] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.761 seconds
+[2021-05-31 09:23:32,297] {scheduler_job.py:182} INFO - Started process (PID=7498) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:32,299] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:23:32,300] {logging_mixin.py:104} INFO - [2021-05-31 09:23:32,300] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:33,055] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:23:33,100] {logging_mixin.py:104} INFO - [2021-05-31 09:23:33,099] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:23:33,156] {logging_mixin.py:104} INFO - [2021-05-31 09:23:33,156] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:23:33,183] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.892 seconds
+[2021-05-31 09:24:03,969] {scheduler_job.py:182} INFO - Started process (PID=7526) to work on /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:24:03,973] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/lstm_dag (1).py for tasks to queue
+[2021-05-31 09:24:03,975] {logging_mixin.py:104} INFO - [2021-05-31 09:24:03,975] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:24:04,723] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['LSTM_DAG']) retrieved from /opt/airflow/dags/lstm_dag (1).py
+[2021-05-31 09:24:04,764] {logging_mixin.py:104} INFO - [2021-05-31 09:24:04,764] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-31 09:24:04,809] {logging_mixin.py:104} INFO - [2021-05-31 09:24:04,809] {dag.py:2280} INFO - Setting next_dagrun for LSTM_DAG to 2021-05-31 00:00:00+00:00
+[2021-05-31 09:24:04,827] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/lstm_dag (1).py took 0.867 seconds
