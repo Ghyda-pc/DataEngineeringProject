@@ -1,13 +1,15 @@
-This project DONE by:
+** This project DONE by: **
 Ghayda Al Hyasat, Shrouq Al-Fuqaha'a, Ibrahim Shahbaz, Mawaddah 
 
-Prepared for:
+** Prepared for: **
 Dr.Ibrahim Abu Alhaol 
 #############################################################
 
 This project creates a daily updated pipline for visualizing COVID-19 situation on a world map simulation,
 investigates the monthly vaccination progress and impact on total COVID-19 cases curve saturation in Jordan,
 and bulit an LSTM  model to forcast new cases of COVID-19 in Jordan 
+
+Data Source : https://github.com/owid/covid-19-data/tree/master/public/data
 
 This Project was bulit on Docker containers using the following open-source tools:
 - Apache Airflow ( two dags )  
