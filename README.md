@@ -15,8 +15,9 @@
 * Apache Airflow ( two dags )  
 * Postgres Data-Base 
 * Kibana and ElasticSearch 
-
+<br />
 #### After cloning this repo , you can run this Project on your machine, execute the following commands on the CLI :
+
 1. Set the working directory to "DE_Project" folder: 
 
 2. Make the volume folders 
@@ -38,8 +39,8 @@ docker-compose up -d # to run application
 
 ````
 
-5- Now you can access the Airflow webserver on http://localhost:8080/ 
-                      the Pgadmin is on http://localhost:8000/
+5- Now you can access the Airflow webserver on http://localhost:8080/ <br />
+                      the Pgadmin is on http://localhost:8000/<br />
     note : all passwords configuration are in the docker-compose yaml file 
 
 6- All generated plots will be available in the "output" mounted folder  
