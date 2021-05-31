@@ -7,6 +7,9 @@
 *Dr.Ibrahim Abu Alhaol* 
 ##
 ##
+
+[Daily updated Dataset link] (https://github.com/owid/covid-19-data/tree/master/public/data) 
+
 #### This project creates a daily updated pipline for visualizing COVID-19 situation on a world map simulation,
 #### investigates the monthly vaccination progress and impact on total COVID-19 cases curve saturation in Jordan,
 #### and bulit an LSTM  model to forcast new cases of COVID-19 in Jordan 
