@@ -15,7 +15,7 @@
 * Apache Airflow ( two dags )  
 * Postgres Data-Base 
 * Kibana and ElasticSearch 
-<br />
+
 #### After cloning this repo , you can run this Project on your machine, execute the following commands on the CLI :
 
 1. Set the working directory to "DE_Project" folder: 
@@ -47,7 +47,7 @@ docker-compose up -d # to run application
 
 6- All generated plots and interactive world map will be available in the **"output"** mounted folder  <br />
    All generated CSVs will be available in the **"data"** mounted folder<br /> 
-
+<br />
 7- Set the working directory to "elastic-docker" folder: 
 <br />
 8- Run Kibana and ElasticSearch: 
@@ -57,8 +57,8 @@ docker-compose up -d # to run application
 
     ````
 9 - Now you can access Kibana on http://localhost:5601/ <br />
-    note: you can see the visulations by openning the Dashboard
-
+    note: you can see the visulations by openning the Dashboard<br />
+<br />
 10- To close the containers and images for both file: <br /> 
 ````
 docker-compose down #to terminate application
