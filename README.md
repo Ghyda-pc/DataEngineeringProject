@@ -5,7 +5,7 @@
 
 **Prepared for:**
 *Dr.Ibrahim Abu Alhaol* 
-#############################################################
+'\n' 
 
 #### This project creates a daily updated pipline for visualizing COVID-19 situation on a world map simulation,
 #### investigates the monthly vaccination progress and impact on total COVID-19 cases curve saturation in Jordan,
