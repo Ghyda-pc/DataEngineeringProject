@@ -5,24 +5,26 @@
 
 **Prepared for:**
 *Dr.Ibrahim Abu Alhaol* 
-'\n' 
-
+##
+##
 #### This project creates a daily updated pipline for visualizing COVID-19 situation on a world map simulation,
 #### investigates the monthly vaccination progress and impact on total COVID-19 cases curve saturation in Jordan,
 #### and bulit an LSTM  model to forcast new cases of COVID-19 in Jordan 
-
+##
 ## This Project was bulit on Docker containers using the following open-source tools:
 * Apache Airflow ( two dags )  
 * Postgres Data-Base 
 * Kibana and ElasticSearch 
 
-After cloning this repo , you can run this Project on your machine, execute the following commands on the CLI :
-1- Set the working directory to "DE_Project" folder: 
+#### After cloning this repo , you can run this Project on your machine, execute the following commands on the CLI :
+1. Set the working directory to "DE_Project" folder: 
 
-2- Make the volume folders 
+2. Make the volume folders 
+````
 mkdir ./dags ./logs ./plugins ./data ./output
+````
 
-3- Initiate Air-Flow 
+3. Initiate Air-Flow 
 
 ````
 docker-compose up airflow-init
